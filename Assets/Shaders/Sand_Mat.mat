@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9186909743232457683
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sand_Mat
+  m_Shader: {fileID: -6465566751694194690, guid: 22e20bdd7816a854190c7f7a80b27b81,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Noise_Texture:
+        m_Texture: {fileID: 2800000, guid: bb823befecb05ac45bd2f4b4a7a116ee, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RenderTexture:
+        m_Texture: {fileID: 8400000, guid: 0c6b5b64668f42a46a15e2448eba3f19, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Base_Color_UV: 48000
+    - _Distortion_Amplitude: 2.17
+    - _Dune_Height: 18
+    - _Edge_Power: 2.3
+    - _Fresnel: 10
+    - _Glitter_Amount: 0.43
+    - _Glitter_Offset: 0.5
+    - _Glitter_Speed: 1
+    - _Height: 0.55
+    - _Noise_Rotation_Speed: 7.15
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _Shadow_Power: 5
+    - _Sine_Amplitude: 2.2
+    - _Sine_Frequency: 1.19
+    - _Sine_Rotation: 19.41
+    - _Strength: 16.56
+    - _UV_Scale: 5.44
+    m_Colors:
+    - _Base_Color: {r: 1, g: 0.8488553, b: 0.58962256, a: 0}
+    - _Glitter_Color: {r: 0.078431375, g: 0.43137255, b: 1, a: 0}
+    - _Noise_Scale: {r: 1, g: 1, b: 0, a: 0}
+    - _Sand_High_Color: {r: 0, g: 0, b: 0, a: 0}
+    - _Sand_Low_Color: {r: 0, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
