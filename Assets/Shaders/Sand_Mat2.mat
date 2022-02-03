@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Sand_Mat
+  m_Name: Sand_Mat2
   m_Shader: {fileID: -6465566751694194690, guid: 22e20bdd7816a854190c7f7a80b27b81,
     type: 3}
   m_ShaderKeywords: 
@@ -63,7 +63,7 @@ Material:
     - _Glitter_Amount: 0.43
     - _Glitter_Offset: 0.5
     - _Glitter_Speed: 1
-    - _Height: 1.07
+    - _Height: 7.71
     - _Noise_Rotation_Speed: 7.15
     - _QueueControl: 0
     - _QueueOffset: 0
