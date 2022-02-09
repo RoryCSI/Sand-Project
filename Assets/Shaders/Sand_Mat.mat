@@ -73,6 +73,7 @@ Material:
     - _Sine_Rotation: 19.41
     - _Strength: 16.56
     - _UV_Scale: 5.44
+    - _n: 0
     m_Colors:
     - _Base_Color: {r: 1, g: 0.8488553, b: 0.58962256, a: 0}
     - _Glitter_Color: {r: 0.078431375, g: 0.43137255, b: 1, a: 0}
