@@ -57,13 +57,13 @@ Material:
     m_Floats:
     - _Base_Color_UV: 48000
     - _Distortion_Amplitude: 2.17
-    - _Dune_Height: 21.2
+    - _Dune_Height: 19.07
     - _Edge_Power: 2.3
     - _Fresnel: 10
     - _Glitter_Amount: 0.43
     - _Glitter_Offset: 0.5
     - _Glitter_Speed: 1
-    - _Height: 7.71
+    - _Height: 9.3
     - _Noise_Rotation_Speed: 7.15
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -73,6 +73,7 @@ Material:
     - _Sine_Rotation: 19.41
     - _Strength: 16.56
     - _UV_Scale: 5.44
+    - _n: 7.76
     m_Colors:
     - _Base_Color: {r: 1, g: 0.8488553, b: 0.58962256, a: 0}
     - _Glitter_Color: {r: 0.078431375, g: 0.43137255, b: 1, a: 0}
